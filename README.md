@@ -37,5 +37,3 @@ The project represents an alpha version of a spaceship.
 
 This is a new line int the readme. I want a new travis compile!
 branch-A
-
-
